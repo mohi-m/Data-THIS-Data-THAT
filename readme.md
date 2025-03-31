@@ -4,6 +4,14 @@ This project focuses on analyzing customer spending behavior, predicting future 
 
 ---
 
+###  **Video Link**
+https://youtu.be/5P_8wiZWBjo
+
+---
+
+###  **Presentation Link**
+https://www.canva.com/design/DAGjOGzfVSU/MlXtYFoSzGdeP0KxRN4Ing/edit?utm_content=DAGjOGzfVSU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 📂 Project Structure
 
 The project is divided into four key components, each represented by a Jupyter notebook:
