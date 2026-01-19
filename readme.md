@@ -10,7 +10,7 @@ https://youtu.be/5P_8wiZWBjo
 ---
 
 ###  **Presentation Link**
-https://www.canva.com/design/DAGjOGzfVSU/MlXtYFoSzGdeP0KxRN4Ing/edit?utm_content=DAGjOGzfVSU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[presentation PDF](https://github.com/mohi-m/Data-THIS-Data-THAT/blob/main/datathon_project_presentation.pdf)
 
 ## 📂 Project Structure
 
